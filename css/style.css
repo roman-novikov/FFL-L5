@@ -1,5 +1,5 @@
 @charset "UTF-8";
-/* Стили обнуления из курса*/
+/*----- Стили обнуления -----*/
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Lora:wght@400;700&display=swap");
 *,
@@ -215,8 +215,8 @@ body {
 .block-text__link {
   display: inline-block;
   font-size: 18px;
-  line-height: 42px;
-  padding: 0 30px;
+  line-height: 22px;
+  padding: 10px 30px;
   color: #fff;
   background-color: #FF5722;
   margin: 12% 0;
