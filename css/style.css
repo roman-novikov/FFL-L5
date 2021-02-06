@@ -408,7 +408,7 @@ body {
   width: 50%;
   padding: 44px;
   color: #fff;
-  max-height: 421px;
+  /*max-height: 421px;*/
 }
 .statistics__intro {
   color: #fff;
