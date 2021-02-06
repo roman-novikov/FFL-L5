@@ -203,14 +203,15 @@ body {
   font-family: "Lora", serif;
   font-size: 32px;
   color: #fff;
-  margin: 12% 0;
+  margin: 8% 0;
 }
 .block-text__text {
-  padding: 0 12%;
-  margin: 15% 0;
+  padding: 0 4%;
+  margin: 8% 0;
   font-size: 18px;
   color: #fff;
   line-height: 28px;
+  max-height: 250px;
 }
 .block-text__link {
   display: inline-block;
@@ -219,7 +220,7 @@ body {
   padding: 10px 30px;
   color: #fff;
   background-color: #FF5722;
-  margin: 12% 0;
+  margin: 8% 0;
 }
 
 /*----- main statistics -----*/
